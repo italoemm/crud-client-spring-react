@@ -1,8 +1,8 @@
 Simples projeto baseado em 2 frentes Back-end e Front-End.
 Se trata de um Crud com autenticação via Token JWT com validação de acesso e permissão.
 
-# Back-end.
-Java 8.
+# Back-end
+Java 8<br/>
 Spring-boot.
 Spring Security.
 JWT.
